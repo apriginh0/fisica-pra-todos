@@ -29,7 +29,7 @@ sejam, ou uma força externa. </p>
         <img src="https://pt-static.z-dn.net/files/dea/29be27c839640a17578b21a543c66479.png" alt="Pressão hidrostática" height={"539px"}/>
         </div>
         <p>Princípio de Pascal:</p>
-        <p>Um acréscimo de pressão exercido em ponto qualquer dentro de um líquido idel, em equilíbrio, se transmite intefralmente a todos os pontos,
+        <p>Um acréscimo de pressão exercido em ponto qualquer dentro de um líquido ideal, em equilíbrio, se transmite integralmente a todos os pontos,
           inclusive as paredes.</p>
         <div>
         <img src="https://www.sobiologia.com.br/figuras/Agua/pascal.png" alt="Princípio de Pascal" height={"309px"}/>
