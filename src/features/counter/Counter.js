@@ -2,11 +2,6 @@ import styles from './Counter.module.css';
 import { Link } from "react-router-dom";
 
 export function Counter() {
-  
-  const shareInfo = (e) => {
-    e.preventDefault();
-    window.location.href='http://google.com';
-    }
 
   return (
     <div>

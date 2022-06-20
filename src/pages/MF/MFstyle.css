@@ -1,7 +1,7 @@
 .Geral {
   width: 100%;
   background-color: rgb(32, 35, 51);
-  display: flex;
+  display: block;
   justify-content: center;
   align-items: center;
   font-size: 1.5rem;
@@ -10,4 +10,21 @@
 .p1{
   color: white;
   margin-top: 60px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+p{
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: justify;
+}
+.central{
+  text-align: center;
+}
+.pressao{
+  padding: 10px;
+  background-color: white;
+  width: 400px;
+  margin: auto;
 }

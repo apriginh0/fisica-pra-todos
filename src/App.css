@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  margin-bottom: 80px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -47,4 +48,15 @@
   background-position: center center;
 }
 
-
+footer{
+  background-color: #61dafbc9;
+  width: 100%;
+  margin-top: 50px;
+}
+footer p {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+footer p:hover {
+  color: black;
+}

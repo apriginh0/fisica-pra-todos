@@ -24,6 +24,10 @@ function App() {
             <Route path="pa" element={<PA/>} />
             <Route path="aviao" element={<Aviao/>} />
           </Routes>
+          <Counter />
+          <footer>
+            <p>Este projeto buscar contrinuir no compartilhamento e entendimento do conhecimento.</p>
+          </footer>
         </header>
       </div>
   );
