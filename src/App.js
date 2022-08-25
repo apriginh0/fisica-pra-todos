@@ -26,7 +26,7 @@ function App() {
           </Routes>
           <Counter />
           <footer>
-            <p>Este projeto buscar contrinuir no compartilhamento e entendimento do conhecimento.</p>
+            <p>Este projeto buscar contribuir no compartilhamento e entendimento do conhecimento.</p>
           </footer>
         </header>
       </div>
