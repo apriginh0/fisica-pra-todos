@@ -1,26 +1,52 @@
-import './Mentalstyle.css';
+import './Aviaostyle.css';
 
-const ML = () => {
+const Aviao = () => {
   return (
     <div className="Geral" >
         <p className="p1" >
-          <strong>MUNDO, LUZ E CORES</strong>
+          <strong>POR QUE O AVIÃO VOA?</strong>
         </p>
-        <p>Um exercício para o capítulo: A luz, as cores e os nossos olhos. </p>
-        <p>Como usar:</p>
-        <p>Nos seus celulares entrem na página kahoot.it e em seguida digitem o código indicado na página pricipal do professor.</p>
+        <iframe width="1100" height="619" src="https://www.youtube.com/embed/6fYF6GmwZa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <div>
-        <img src="https://images.squarespace-cdn.com/content/v1/5eee731ceaa57e78d7b3f47f/1593151412879-KOO6VAVW9WHL6P2IZUWM/1.jpg?format=1000w" alt="Kahoot" height={"539px"}/>
+          <p>Planador</p>
+          <img src="https://oficinadoestudante.com.br/uploads/textos/img_tira_duvidas_5549_1.jpg" alt="14-BIS" height={"400"}/>
         </div>
-        <p>Desmos:</p>
-        <p>Um aaplicação similar ao GeoGebra, Symbolab e outros do gênero,  é uma calculadora gráfica avançada implementada como um aplicativo da web e um aplicativo móvel escrito em JavaScript. O nome Desmos veio da palavra grega δεσμός , que significa vínculo, "relação". </p>
-        <p>Demonstração:</p>
-        <p>Uma curiosidade que chama a atenção para as possibilidades.</p>
         <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BQvBq3K50u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <img src="https://adslatin.com/wp-content/uploads/2019/07/santos-dumont-14-bis.jpeg" alt="14-BIS" height={"445"}/>
         </div>
-        <p className="p1"><strong>Prática de Ensino</strong></p>
+        <p>Complexidade da Hidrodinâmica</p>
+        <div>
+          <img src="https://1.bp.blogspot.com/-Mk4rRKqM--I/X8WhY4lgZbI/AAAAAAAABEI/A31IE_kiEs8YyMvmtSLO2zW1uJAeU7tNwCNcBGAsYHQ/w519-h185/vela.gif" alt="14-BIS" height={"445"}/>
+        </div>
+        <p>Efeito Leidenfrost</p>
+        <p>ocorre quando algum líquido entra em contato com uma superfície muito, muito mais quente do que seu ponto de ebulição.</p>
+        <div>
+          <img src="https://hypescience.com/wp-content/uploads/2014/03/ec6czbweizjzewlgerx6.gif" alt="gota se move pra cima" />
+        </div>
+        <div>
+          <img src="https://hypescience.com/wp-content/uploads/2014/03/ocpcqbn9fq90wkm3li5h.gif" alt="gota de perto" />
+        </div>
+        <p>Evolução</p>
+        <div>
+          <img src="https://static.preparaenem.com/2021/07/registro-de-alberto-santos-dumont-sentado-sob-um-prototipo-de-aviao.jpg" alt="14-BIS" height={"445"}/>
+          <img src="https://aventurasnahistoria.uol.com.br/media/_versions/legacy/2018/11/14/lademoiselleaviaobacana_widelg.jpg" alt="14-BIS" height={"445"}/>
+        </div>
+        <div>
+          <img src="https://o.quizlet.com/DNmNb5EiGl3p1YTiBRjovg.gif" alt="Asa de avião" />
+        </div>
+        <div>
+          <img src="https://vocarecom.files.wordpress.com/2014/07/10105454834099.gif?w=604&h=198" alt="botijão de propulsão" />
+        </div>
+        <p>Aviões Subsônico</p>
+        <div>
+          <img src="https://www.essemundoenosso.com.br/wp-content/uploads/2016/03/avi%C3%A3o-tem-buzina.jpg" alt="Supersônico" />
+        </div>
+        <p>Aviões Supersônicos</p>
+        <div className='p1'>
+          <img src="https://acrediteounao.com/wp-content/uploads/2019/03/concorde-avi%C3%A3o-supers%C3%B4nico-e1552938492755-740x357.jpg" alt="Supersônico" />
+        </div>
+        
     </div>
   );
 }
-export default Mental;
+export default Aviao;
