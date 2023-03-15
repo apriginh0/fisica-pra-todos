@@ -1,7 +1,6 @@
-import './Metal
-style.css';
+import './Aviaostyle.css';
 
-const Metal = () => {
+const Aviao = () => {
   return (
     <div className="Geral" >
         <p className="p1" >
