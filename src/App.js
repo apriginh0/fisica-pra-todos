@@ -23,6 +23,7 @@ function App() {
             <Route path="mf" element={<MF/>} />
             <Route path="pa" element={<PA/>} />
             <Route path="aviao" element={<Aviao/>} />
+            <Route path="ferramentas" element={<Mental/>} />
           </Routes>
           <Counter />
           <footer>
