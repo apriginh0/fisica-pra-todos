@@ -6,7 +6,7 @@ import { Routes, Route } from 'react-router-dom';
 import Page1 from './pages/page1/page1';
 import MF from './pages/MF/MF';
 import PA from './pages/PA/PA';
-import PA from './pages/Mental/Mental';
+import Mental from './pages/Mental/Mental';
 import Aviao from './pages/aviao/Aviao';
 import { Link } from "react-router-dom";
 
