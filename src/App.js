@@ -6,7 +6,6 @@ import { Routes, Route } from 'react-router-dom';
 import Page1 from './pages/page1/page1';
 import MF from './pages/MF/MF';
 import PA from './pages/PA/PA';
-import Mental from './pages/Mental';
 import Aviao from './pages/aviao/Aviao';
 import { Link } from "react-router-dom";
 
@@ -24,7 +23,6 @@ function App() {
             <Route path="mf" element={<MF/>} />
             <Route path="pa" element={<PA/>} />
             <Route path="aviao" element={<Aviao/>} />
-            <Route path="ferramentas" element={<Mental/>} />
           </Routes>
           <Counter />
           <footer>
