@@ -12,7 +12,7 @@ const Aviao = () => {
         <div>
         <img src="https://images.squarespace-cdn.com/content/v1/5eee731ceaa57e78d7b3f47f/1593151412879-KOO6VAVW9WHL6P2IZUWM/1.jpg?format=1000w" alt="Kahoot" height={"539px"}/>
         </div>
-        <iframe width="560" height="315" src="https://youtube.com/shorts/hgk2NAl6g-c?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="480" height="854" src="https://www.youtube.com/embed/hgk2NAl6g-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <p>Desmos:</p>
         <p>Um aaplicação similar ao GeoGebra, Symbolab e outros do gênero,  é uma calculadora gráfica avançada implementada como um aplicativo da web e um aplicativo móvel escrito em JavaScript. O nome Desmos veio da palavra grega δεσμός , que significa vínculo, "relação". </p>
         <p>Demonstração:</p>
